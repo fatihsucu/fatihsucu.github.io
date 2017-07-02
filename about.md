@@ -17,20 +17,12 @@ Programming Languages
 * Python
 * C
 * Swift
-
-Databases
-
 * MySQL
 * MongoDB ( NoSQL )
 * PostgreSQL
 * SQLite
-
-Operating Systems
-
 * Linux
 * OSX
-
-Others
 * Nginx
 * Apache HTTP Server
 * Supervisor
