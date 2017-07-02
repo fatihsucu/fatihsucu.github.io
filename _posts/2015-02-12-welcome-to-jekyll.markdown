@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-02-12 13:46:40
-categories: jekyll update
+title:  "This is first post trial"
+date:   2017-07-02
+categories: Trial 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget dolor ut dolor varius finibus. Integer vel rutrum sem, ut rhoncus dui. Suspendisse sit amet enim elementum, finibus dolor eget, pulvinar mauris. In fermentum sem mollis lectus scelerisque, ac placerat orci maximus. Vivamus id diam porta, accumsan nisl non, placerat tortor. Mauris sit amet commodo ex. Quisque est nisl, ultricies sit amet urna nec, placerat dignissim tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer at ipsum sed mi vulputate dictum. Ut tincidunt orci eu enim eleifend, et volutpat tellus auctor. Nam porta metus arcu, eget maximus erat eleifend blandit.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Ut arcu tortor, vulputate in sem eget, interdum blandit orci. Duis sollicitudin tempor tempor. Sed at sapien ac purus ornare bibendum a non augue. Nam sagittis lorem a eros vestibulum consequat. Fusce tempus odio id pharetra convallis. Etiam tincidunt mauris non metus iaculis, in malesuada diam maximus. Fusce sed egestas magna. Nullam eu accumsan ipsum.
 
-Jekyll also offers powerful support for code snippets:
+Duis blandit sagittis velit, nec varius diam dictum quis. Phasellus condimentum luctus vulputate. Sed ornare, elit in accumsan viverra, magna lorem fringilla risus, eu accumsan tellus diam ut mauris. In laoreet commodo lectus, non consectetur tellus scelerisque quis. Donec eu tortor vitae leo fermentum feugiat. Nam eu dapibus quam. Quisque ac dui vitae nibh venenatis mollis. Vivamus elementum nulla lobortis turpis tristique rhoncus. Suspendisse ornare purus massa, at sodales nisl varius vel. Vivamus vehicula sem et massa bibendum, eu faucibus urna pretium.
 
 {% highlight ruby %}
 def print_hi(name)
@@ -18,8 +18,4 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

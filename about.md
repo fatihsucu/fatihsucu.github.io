@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a self-motivated senior software engineer who love to contribute open source projects. I contributed projects developed by multinational teams.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I have developed web services, RESTful APIs and worked with most of popular APIs.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I know how to design with OOP using common design patterns, test driven development. I use continuous integration tools as Jenkins, Travis etc.
+
+I worked on web application scalability, bots, sentiment analysis, data mining
+
+Skills: 
+• Python, C, Swift
+• MySQL, MongoDB ( NoSQL ), PostgreSQL, SQLite 
+• Nginx, Apache HTTP Server, Supervisor, Redis, Celery, Flask, Django
+• Linux, docker, vagrant, git, AWS
