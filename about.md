@@ -12,8 +12,33 @@ I know how to design with OOP using common design patterns, test driven developm
 
 I worked on web application scalability, bots, sentiment analysis, data mining
 
-Skills: 
-• Python, C, Swift
-• MySQL, MongoDB ( NoSQL ), PostgreSQL, SQLite 
-• Nginx, Apache HTTP Server, Supervisor, Redis, Celery, Flask, Django
-• Linux, docker, vagrant, git, AWS
+Programming Languages 
+
+* Python
+* C
+* Swift
+
+Databases
+
+* MySQL
+* MongoDB ( NoSQL )
+* PostgreSQL
+* SQLite
+
+Operating Systems
+
+* Linux
+* OSX
+
+Others
+* Nginx
+* Apache HTTP Server
+* Supervisor
+* Redis
+* Celery
+* Flask
+* Django
+* Docker
+* Vagrant
+* Git
+* AWS
