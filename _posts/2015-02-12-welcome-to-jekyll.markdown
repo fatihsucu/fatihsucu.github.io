@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "This is first post trial"
+description: "Test description"
 date:   2017-07-02
 categories: Trial 
 ---
